@@ -1,0 +1,15 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "desscription",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Kyan Tay",
+            "email": "20037834@myrp.edu.sg"
+        }
+    ],
+    "require":{
+        
+    }
+}
